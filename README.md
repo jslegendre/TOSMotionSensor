@@ -1,4 +1,4 @@
-##TOSMotionSensor
+## TOSMotionSensor
 TOSMotionSensor is an accelerometer driver for Toshiba hackintosh devices.  It has been designed to use the built-in accelerometer in any Toshiba device sporting one and should be compatible with any supported device. 
 
 TOSMotionSensor also kinda-sorta emulates the built in accelerometer HDD MacBook and MacBook Pros used to come with by publishing the same IOService and can be queried by user-space applications in the same way.
